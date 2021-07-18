@@ -5,5 +5,7 @@ int main(){
     y=x<<2;
 
     cout<<(int)y<<endl;
+    
     return 0;
+
 }
