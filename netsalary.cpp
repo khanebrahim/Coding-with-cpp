@@ -18,4 +18,7 @@ int main()
 basic*percentDeduct/100;
  
  cout<<"Net Salary is:"<<netSalary<<endl;
+ 
+ 
+  
 }
